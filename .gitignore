@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 keys.py
+*.hdf5
+tensorboard
+keys.pyc
+*.pkl
